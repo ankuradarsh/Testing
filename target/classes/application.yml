@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hello-endpoint
+    
+server:
+  port: 8082
